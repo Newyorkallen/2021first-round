@@ -1,0 +1,186 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body{
+    font-size: 24px;
+    line-height: 36px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.title{
+font-size: 80px;
+line-height: 94px;
+border-bottom: 2px solid #000;
+padding-bottom: 17px;
+margin-bottom: 48px;
+}
+.profile h2{
+    font-size: 32px;
+    line-height: 45px;
+    margin-top: 46px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 8px;
+    
+}
+.span1{
+    color: #A00404;
+    font-size: 24px;
+    padding-left: 16px;
+    vertical-align: top;
+   
+}
+.profile p{
+    line-height: 36px;
+    margin-bottom: 24px;
+}
+.education h2{
+    font-size: 32px;
+    line-height: 45px;
+    margin-top: 72px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+.education p{
+    line-height: 36px;
+    margin-bottom: 24px;
+}
+.darkBlue{
+    background: #415165;
+    color: white;
+    
+}
+.skills{
+    width: 996px;
+    margin: 0 auto;
+    margin-top: 72px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+    
+}
+.darkBlue h2{
+    font-size: 32px;
+    line-height: 45px;
+    border-bottom: 1px solid white;
+    padding-bottom: 8px;
+    margin-bottom: 16px; 
+    text-align: center;
+   
+}
+.span2{
+    color: white;
+    font-size: 24px;
+    padding-left: 16px;
+    vertical-align: top;
+}
+.dark1{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-left: 1px solid white;
+    padding-left: 24px;
+    margin-left: 400px;
+}
+.container h2{
+    font-size: 32px;
+    line-height: 45px;
+    margin-top: 46px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+.exp{
+  line-height: 36px;  
+  border-left: 1px solid #96A9C4;
+  margin-left: 30px;
+}
+.exp li{
+    margin-left: 24px;
+}
+.pic1{
+    margin-top: 8px;
+    
+}
+.exp1{
+    line-height: 30px;
+    margin-bottom: 24px;
+    font-size: 20px;
+}
+.exp2 p{
+    margin-bottom: 24px;
+}
+.footer{
+    background: #415165;
+    color: white;
+}
+.contact{
+    width: 996px;
+    margin: 0 auto;
+    margin-top: 72px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+.contact h2{
+    font-size: 32px;
+    line-height: 45px;
+    border-bottom: 1px solid white;
+    padding-bottom: 8px;
+    margin-bottom: 16px; 
+    text-align: center;
+}
+.contact ul{
+    
+    text-align: center;
+}
+.contact li{
+    margin-bottom: 16px;
+}
+.pic2{
+    margin-left: 24px;
+}
